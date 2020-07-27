@@ -9,7 +9,7 @@ cd EagleOwlAPP
 npm install
 ```
 
-Go to `database` folder to specify MYSQL details. Mysql Dump can be found under root folder of the project named `eagleowl.sql`
+Go to `database/db.js` folder to specify MYSQL details. Mysql Dump can be found under root folder of the project named `eagleowl.sql`
 
 To run the project:
 
@@ -17,4 +17,4 @@ To run the project:
 
 * Open another terminal and run `npm start` under **Eagleowl-master/EagleOwlAPP** directory.
 
-Access the webpage under http://localhost:3000.
+Access the webpage: http://localhost:3000.
